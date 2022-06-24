@@ -52,7 +52,7 @@ A curated list of awesome open source hardware tools.
 ## Boards
 
 * [parallella-hw](https://github.com/parallella/parallella-hw)
- * Parallella board design files
+  * Parallella board design files
 
 ## Connectivity
 
@@ -78,6 +78,8 @@ A curated list of awesome open source hardware tools.
   * Small footprint and configurable embedded FPGA logic analyzer
 * [litepice](https://github.com/enjoy-digital/litepcie)
   * Small footprint and configurable PCIe core
+* [ravenoc](https://github.com/aignacio/ravenoc)
+  * Configurable HDL NoC (Network-On-Chip)
 * [tnoc](https://github.com/taichi-ishitani/tnoc)
   * Network on Chip Implementation written in SytemVerilog
 * [verilog-axis](https://github.com/alexforencich/verilog-axis)
