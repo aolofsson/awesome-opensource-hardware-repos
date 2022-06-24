@@ -48,6 +48,8 @@ A curated list of awesome open source hardware tools.
 ## Analog
 * [AMS_KGD](https://github.com/USCPOSH/AMS_KGD)
   * Repository for Known Good Analog Designs (KGDs)
+* [open-pmic](https://github.com/westonb/open-pmic)
+  * Current mode buck converter on the SKY130 PDK
 
 ## Boards
 
@@ -132,11 +134,14 @@ A curated list of awesome open source hardware tools.
 
 ## FPGAs
 
+* [FABulous](https://github.com/FPGA-Research-Manchester/FABulous)
+  * Fabric generator and CAD tools
+* [fabric_team](https://github.com/ucb-cs250/fabric_team)
+  * ucb-cs250 FPGA class project
 * [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA)
   * FPGA IP Generator
 * [prga](https://github.com/PrincetonUniversity/prga)
   * Open-source FPGA research and prototyping framework
-
 
 ## Libraries
 
