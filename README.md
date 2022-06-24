@@ -12,7 +12,7 @@ A curated list of awesome open source hardware tools.
 
 ## Accelerators
 
-* [aes)(https://github.com/secworks/aes)
+* [aes])(https://github.com/secworks/aes)
   * Symmetric block cipher AES (Advanced Encryption Standard)
 * [ara](https://github.com/pulp-platform/ara)
   * Vector Unit, compatible with the RISC-V Vector Extension
@@ -41,39 +41,9 @@ A curated list of awesome open source hardware tools.
 * [vortex](https://github.com/vortexgpgpu/vortex)
   * Full-system RISCV-based GPGPU processor
 
-## Component Libraries
-
-* [hdl](https://github.com/analogdevicesinc/hdl)
-  * Analog Devices HDL library
-* [oh](https://github.com/aolofsson/oh)
-  * Standard Verilog libraries for ASICs and FPGAs.
-* [basejump_stl](https://github.com/bespoke-silicon-group/basejump_stl)
-  * Standard Template Library for SystemVerilog
-
-## SoCs
-
-* [bsg_manycore](https://github.com/bespoke-silicon-group/bsg_manycore)
-  * Tile based architecture designed for computing efficiency, scalability
-* [Cores-SweRVolf](https://github.com/chipsalliance/Cores-SweRVolf)
-  * FuseSoC-based SoC for SweRV EH1
-* [hero](https://github.com/pulp-platform/hero)
-  * FPGA-based research platform for heterogeneous design
-* [openFASOC](https://github.com/idea-fasoc/OpenFASOC)
-  * Open Source FASOC generators
-* [openpiton](https://github.com/PrincetonUniversity/openpiton)
-  * General purpose, multithreaded manycore processor
-* [opentitan](https://github.com/lowRISC/opentitan)
-  * Open source silicon root of trust
-* [openwifi-hw](https://github.com/open-sdr/openwifi-hw)
-  * IEEE 802.11 WiFi baseband FPGA (chip) design
-* [pulp](https://github.com/pulp-platform/pulp)
-  * Multicore RISC-V based SoC
-* [pulpissimo](https://github.com/pulp-platform/pulpissimo)
-  * Single core RISC-V based SoC
-
 ## Analog
 * [AMS_KGD](https://github.com/USCPOSH/AMS_KGD)
-  * Repository for Known Good Analog Designs (KGDs).
+  * Repository for Known Good Analog Designs (KGDs)
 
 ## Boards
 
@@ -135,6 +105,15 @@ A curated list of awesome open source hardware tools.
 * [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA)
   * FPGA IP Generator
 
+## Libraries
+
+* [hdl](https://github.com/analogdevicesinc/hdl)
+  * HDL library from Analog Devices
+* [oh](https://github.com/aolofsson/oh)
+  * Standard Verilog libraries for ASICs and FPGAs.
+* [basejump_stl](https://github.com/bespoke-silicon-group/basejump_stl)
+  * Standard Template Library for SystemVerilog
+
 ## Memory
 * [core_axi_cache](https://github.com/ultraembedded/core_axi_cache)
   * 128KB AXI cache (32-bit in, 256-bit out)
@@ -143,3 +122,26 @@ A curated list of awesome open source hardware tools.
 
 * [bsg_packaging](https://github.com/bespoke-silicon-group/bsg_packaging)
   * Open-Source Hardware Accelerator Packages and Sockets
+
+## Systems
+
+* [bsg_manycore](https://github.com/bespoke-silicon-group/bsg_manycore)
+  * Tile based architecture designed for computing efficiency, scalability
+* [esp](https://github.com/sld-columbia/esp)
+  * Heterogeneous SoC architecture and IP design platform
+* [hero](https://github.com/pulp-platform/hero)
+  * FPGA-based research platform for heterogeneous design
+* [litex](https://github.com/enjoy-digital/litex)
+  * SoC builder framework
+* [openFASOC](https://github.com/idea-fasoc/OpenFASOC)
+  * Open Source FASOC generators
+* [openpiton](https://github.com/PrincetonUniversity/openpiton)
+  * General purpose, multithreaded manycore processor
+* [opentitan](https://github.com/lowRISC/opentitan)
+  * Open source silicon root of trust
+* [openwifi-hw](https://github.com/open-sdr/openwifi-hw)
+  * IEEE 802.11 WiFi baseband FPGA (chip) design
+* [pulp](https://github.com/pulp-platform/pulp)
+  * Multicore RISC-V based SoC
+* [pulpissimo](https://github.com/pulp-platform/pulpissimo)
+  * Single core RISC-V based SoC
