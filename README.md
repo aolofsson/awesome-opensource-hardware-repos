@@ -38,6 +38,8 @@ A curated list of awesome open source hardware tools.
   * Berkeley SHAR3 ROCC Accelerator
 * [tvm-vta](https://github.com/apache/tvm-vta)
   * Opwn, modular, deep learning accelerator
+* [VeriGOOD-ML](https://github.com/VeriGOOD-ML/public)
+  * Verilog Generator, Optimized for Designs for Machine Learning
 * [VeriGPU](https://github.com/hughperkins/VeriGPU)
   * OpenSource GPU, loosely based on RISC-V ISA
 * [verilog-lfsr](https://github.com/alexforencich/verilog-lfsr)
@@ -46,6 +48,7 @@ A curated list of awesome open source hardware tools.
   * Full-system RISCV-based GPGPU processor
 
 ## Analog
+
 * [AMS_KGD](https://github.com/USCPOSH/AMS_KGD)
   * Repository for Known Good Analog Designs (KGDs)
 * [open-pmic](https://github.com/westonb/open-pmic)
