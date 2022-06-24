@@ -80,6 +80,8 @@ A curated list of awesome open source hardware tools.
   * Small footprint and configurable embedded FPGA logic analyzer
 * [litepice](https://github.com/enjoy-digital/litepcie)
   * Small footprint and configurable PCIe core
+* [OpenSERDES](https://github.com/SparcLab/OpenSERDES)
+  * Digitally synthesizable architecture for SerDes using Skywater130
 * [ravenoc](https://github.com/aignacio/ravenoc)
   * Configurable HDL NoC (Network-On-Chip)
 * [tnoc](https://github.com/taichi-ishitani/tnoc)
@@ -96,8 +98,14 @@ A curated list of awesome open source hardware tools.
   * Verilog PCI express components
 * [verilog-wishbone](https://github.com/alexforencich/verilog-wishbone)
   * Verilog wishbone components
-* [OpenSERDES](https://github.com/SparcLab/OpenSERDES)
-  * Digitally synthesizable architecture for SerDes using Skywater130
+* [wav-d2d-hw](https://github.com/waviousllc/wav-d2d-hw)
+  * 8lane Wlink with D2D and a single AXI Target/Initiator
+* [wav-lpddr-hw](https://github.com/waviousllc/wav-lpddr-hw)
+  * DDR (WDDR) Physical interface (PHY) Hardware
+* [wav-slink-hw](https://github.com/waviousllc/wav-slink-hw)
+  * Chiplet link
+* [wav-wlink-hw](https://github.com/waviousllc/wav-wlink-hw)
+  * Chiplet link
 
 ## CPU cores
 
