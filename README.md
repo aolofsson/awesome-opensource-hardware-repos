@@ -109,6 +109,8 @@ A curated list of awesome open source hardware tools.
   * SweRV EH1 RISC-Vcore
 * [Cores-SweRV-EL2](https://github.com/chipsalliance/Cores-SweRV-EL2)
   * SweRV EL2 RISC-V Core
+* [core-v-verif](https://github.com/openhwgroup/core-v-verif)
+  * Functional verification project for the CORE-V family of RISC-V cores
 * [cva6](https://github.com/openhwgroup/cva6)
   * Linux capable RISC-V CPU
 * [cv32e40p](https://github.com/openhwgroup/cv32e40p)
