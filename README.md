@@ -12,7 +12,7 @@ A curated list of awesome open source hardware tools.
 
 ## Accelerators
 
-* [aes])(https://github.com/secworks/aes)
+* [aes](https://github.com/secworks/aes)
   * Symmetric block cipher AES (Advanced Encryption Standard)
 * [ara](https://github.com/pulp-platform/ara)
   * Vector Unit, compatible with the RISC-V Vector Extension
@@ -26,7 +26,9 @@ A curated list of awesome open source hardware tools.
   * GPL v3 2D/3D graphics engine in verilog
 * [core_jpeg](https://github.com/ultraembedded/core_jpeg)
   * High throughput JPEG decoder in Verilog for FPGA
-* [nvdla](https://github.com/nvdla)
+* [h265-encoder-rtl](https://github.com/openasic-org/h265-encoder-rtl)
+  * H.265 Video Encoder IP Core
+* [nvdla](https://github.com/nvdla/hw)
   * NVIDIA Deep Learning Accelerator (NVDLA)
 * [NyuziProcessor](https://github.com/jbush001/NyuziProcessor)
   * GPGPU microprocessor architecture
@@ -34,6 +36,8 @@ A curated list of awesome open source hardware tools.
   * 802.11 OFDM PHY decoder
 * [sha3](https://github.com/ucb-bar/sha3)
   * Berkeley SHAR3 ROCC Accelerator
+* [tvm-vta](https://github.com/apache/tvm-vta)
+  * Opwn, modular, deep learning accelerator
 * [VeriGPU](https://github.com/hughperkins/VeriGPU)
   * OpenSource GPU, loosely based on RISC-V ISA
 * [verilog-lfsr](https://github.com/alexforencich/verilog-lfsr)
@@ -54,12 +58,28 @@ A curated list of awesome open source hardware tools.
 
 * [aib](https://github.com/chipsalliance/aib-phy-hardware)
   * Advanced Interface Bus (AIB) die to die hardware
+* [aib-protocols](https://github.com/chipsalliance/aib-protocols)
+  * Advanced Interface Bus (AIB) Protocol IP
 * [axi](https://github.com/pulp-platform/axi)
   * AXI SystemVerilog synthesizable IP
 * [axi4_aib_bridge](https://github.com/lmco/axi4_aib_bridge)
   * AXI4/AIB Bridge RTL
 * [core_ddr3_controller](https://github.com/ultraembedded/core_ddr3_controller)
   * DDR3 memory controller in Verilog for various FPGAs
+* [hdmi](https://github.com/hdl-util/hdmi)
+  * Send video/audio over HDMI on an FPGA
+* [i2c](https://github.com/hdl-util/i2c)
+  * Fully featured implementation of Inter-IC (I2C) bus master
+* [litedram](https://github.com/enjoy-digital/litedram)
+  * Small footprint and configurable DRAM (litex)
+* [liteeth](https://github.com/enjoy-digital/liteeth)
+  * Small footprint and configurable Ethernet core
+* [litescope](https://github.com/enjoy-digital/litescope)
+  * Small footprint and configurable embedded FPGA logic analyzer
+* [litepice](https://github.com/enjoy-digital/litepcie)
+  * Small footprint and configurable PCIe core
+* [tnoc](https://github.com/taichi-ishitani/tnoc)
+  * Network on Chip Implementation written in SytemVerilog
 * [verilog-axis](https://github.com/alexforencich/verilog-axis)
   * Verilog AXI stream components for FPGA implementation
 * [verilog-ethernet](https://github.com/alexforencich/verilog-ethernet)
@@ -72,15 +92,13 @@ A curated list of awesome open source hardware tools.
   * Verilog PCI express components
 * [verilog-wishbone](https://github.com/alexforencich/verilog-wishbone)
   * Verilog wishbone components
-* [LMAC-CORE1](https://github.com/lewiz-support/LMAC_CORE1)
-  * Ethernet 1G/100M/10M
-* [LMAC_CORE2](https://github.com/lewiz-support/LMAC_CORE2)
-  * Ethernet MAC Core2 10G/5G/2.5G/1G
 * [OpenSERDES](https://github.com/SparcLab/OpenSERDES)
   * Digitally synthesizable architecture for SerDes using Skywater130
 
 ## CPU cores
 
+* [a2i](https://github.com/openpower-cores/a2i)
+  * A2I POWER processor core RTL (VHDL)
 * [black-parrot](https://github.com/black-parrot/black-parrot)
   * Linux-capable RISC-V multicore
 * [Cores-SweRV](https://github.com/chipsalliance/Cores-SweRV)
@@ -89,8 +107,18 @@ A curated list of awesome open source hardware tools.
   * SweRV EL2 RISC-V Core
 * [cva6](https://github.com/openhwgroup/cva6)
   * Linux capable RISC-V CPU
+* [cv32e40p](https://github.com/openhwgroup/cv32e40p)
+  * RV32IMFCX RISC-V 4-stage RISC-V CPU
 * [ibex](https://github.com/lowRISC/ibex)
   * Small 32 bit RISC-V CPU core
+* [HuanCun](https://github.com/OpenXiangShan/HuanCun)
+  * Open-source high-performance non-blocking cache
+* [microwatt](https://github.com/antonblanchard/microwatt)
+  * Open POWER ISA softcore written in VHDL 2008
+* [neorv32](https://github.com/stnolting/neorv32)
+  * Customizable and highly extensible MCU-class 32-bit RISC-V (VHDL)
+* [OpenXiangShan](https://github.com/OpenXiangShan/XiangShan)
+  * Open-source high-performance RISC-V processor
 * [picorv32](https://github.com/YosysHQ/picorv32)
   * Size-Optimized RISC-V CPU
 * [rocket-chip](https://github.com/chipsalliance/rocket-chip)
@@ -104,15 +132,23 @@ A curated list of awesome open source hardware tools.
 
 * [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA)
   * FPGA IP Generator
+* [prga](https://github.com/PrincetonUniversity/prga)
+  * Open-source FPGA research and prototyping framework
+
 
 ## Libraries
 
+* [basic_verilog](https://github.com/pConst/basic_verilog)
+  * Library of SystemVerilog components
+* [common_cells](https://github.com/pulp-platform/common_cells)
+  * Library of SystemVerilog components
 * [hdl](https://github.com/analogdevicesinc/hdl)
-  * HDL library from Analog Devices
+  * Library of Analog Deveices specific components
 * [oh](https://github.com/aolofsson/oh)
-  * Standard Verilog libraries for ASICs and FPGAs.
+  * Library of Verilog components
 * [basejump_stl](https://github.com/bespoke-silicon-group/basejump_stl)
-  * Standard Template Library for SystemVerilog
+  * Library of SystemVerilog components
+
 
 ## Memory
 * [core_axi_cache](https://github.com/ultraembedded/core_axi_cache)
@@ -123,8 +159,15 @@ A curated list of awesome open source hardware tools.
 * [bsg_packaging](https://github.com/bespoke-silicon-group/bsg_packaging)
   * Open-Source Hardware Accelerator Packages and Sockets
 
+## Retro
+
+* [VerilogBoy](https://github.com/zephray/VerilogBoy)
+  * Game Boy compatible machine with Verilog
+
 ## Systems
 
+* [Beagle_SDR_GPS](https://github.com/jks-prv/Beagle_SDR_GPS)
+  * KiwiSDR: BeagleBone web-accessible GPS/SDR
 * [bsg_manycore](https://github.com/bespoke-silicon-group/bsg_manycore)
   * Tile based architecture designed for computing efficiency, scalability
 * [esp](https://github.com/sld-columbia/esp)
