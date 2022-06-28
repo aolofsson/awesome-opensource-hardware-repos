@@ -53,6 +53,8 @@ A curated list of awesome open source hardware tools.
   * Repository for Known Good Analog Designs (KGDs)
 * [open-pmic](https://github.com/westonb/open-pmic)
   * Current mode buck converter on the SKY130 PDK
+* [Analog Basic Blocks/LDO](https://github.com/mabrains/Analog_blocks)
+  * Repo that has designs with the following: OTA, BandGap and LDO design on Skywaters 130nm.
 
 ## Boards
 
