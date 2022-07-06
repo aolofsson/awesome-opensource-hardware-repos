@@ -20,12 +20,16 @@ A curated list of awesome open source hardware tools.
   * MMIO-Based FFT Generator
 * [fpu](https://github.com/dawsonjon/fpu)
   * Synthesizable ieee 754 floating point library in verilog
+* [garnet](https://github.com/StanfordAHA/garnet)
+  * CGRA generator
 * [gemmini](https://github.com/ucb-bar/gemmini)
   * Berkeley Spatial Array Generator
 * [gplgpu](https://github.com/asicguy/gplgpu)
   * GPL v3 2D/3D graphics engine in verilog
 * [core_jpeg](https://github.com/ultraembedded/core_jpeg)
   * High throughput JPEG decoder in Verilog for FPGA
+* [fftgenerator](https://github.com/ucb-bar/FFTGenerator)
+  * Chisel based FFT generator
 * [h265-encoder-rtl](https://github.com/openasic-org/h265-encoder-rtl)
   * H.265 Video Encoder IP Core
 * [nvdla](https://github.com/nvdla/hw)
@@ -36,6 +40,8 @@ A curated list of awesome open source hardware tools.
   * 802.11 OFDM PHY decoder
 * [sha3](https://github.com/ucb-bar/sha3)
   * Berkeley SHAR3 ROCC Accelerator
+* [spiral](https://github.com/spiral-software/spiral-software)
+  * Spiral based FFT generator
 * [tvm-vta](https://github.com/apache/tvm-vta)
   * Opwn, modular, deep learning accelerator
 * [VeriGOOD-ML](https://github.com/VeriGOOD-ML/public)
@@ -87,6 +93,8 @@ A curated list of awesome open source hardware tools.
   * Small footprint and configurable PCIe core
 * [OpenSERDES](https://github.com/SparcLab/OpenSERDES)
   * Digitally synthesizable architecture for SerDes using Skywater130
+* [pymtl3-net](https://github.com/cornell-brg/pymtl3-net)
+  * Cornell parameterizable OCN (on-chip network) generator
 * [ravenoc](https://github.com/aignacio/ravenoc)
   * Configurable HDL NoC (Network-On-Chip)
 * [tnoc](https://github.com/taichi-ishitani/tnoc)
@@ -130,8 +138,7 @@ A curated list of awesome open source hardware tools.
   * RV32IMFCX RISC-V 4-stage RISC-V CPU
 * [ibex](https://github.com/lowRISC/ibex)
   * Small 32 bit RISC-V CPU core
-* [HuanCun](https://github.com/OpenXiangShan/HuanCun)
-  * Open-source high-performance non-blocking cache
+
 * [microwatt](https://github.com/antonblanchard/microwatt)
   * Open POWER ISA softcore written in VHDL 2008
 * [neorv32](https://github.com/stnolting/neorv32)
@@ -175,6 +182,12 @@ A curated list of awesome open source hardware tools.
 ## Memory
 * [core_axi_cache](https://github.com/ultraembedded/core_axi_cache)
   * 128KB AXI cache (32-bit in, 256-bit out)
+* [HuanCun](https://github.com/OpenXiangShan/HuanCun)
+  * Open-source high-performance non-blocking cache
+* [openram](https://github.com/VLSIDA/OpenRAM)
+  * Static random access memory (SRAM) compiler.
+* [lake](https://github.com/StanfordAHA/lake)
+  * Synthesizable memory generator
 
 ## Packaging
 
@@ -192,6 +205,8 @@ A curated list of awesome open source hardware tools.
   * KiwiSDR: BeagleBone web-accessible GPS/SDR
 * [bsg_manycore](https://github.com/bespoke-silicon-group/bsg_manycore)
   * Tile based architecture designed for computing efficiency, scalability
+* [cep](https://github.com/mit-ll/CEP)
+  * RISC-V based Common Evaluation Platform (CEP)
 * [esp](https://github.com/sld-columbia/esp)
   * Heterogeneous SoC architecture and IP design platform
 * [hero](https://github.com/pulp-platform/hero)
