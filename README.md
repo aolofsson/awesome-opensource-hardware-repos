@@ -40,6 +40,10 @@ A curated list of awesome open source hardware tools.
   * 802.11 OFDM PHY decoder
 * [sha3](https://github.com/ucb-bar/sha3)
   * Berkeley SHAR3 ROCC Accelerator
+* [Serpens](https://github.com/linghaosong/Serpens)
+  * HBM FPGA based SpMV Accelerator
+* [Sextans](https://github.com/linghaosong/Sextans)
+  * FPGA accelerator for general-purpose Sparse-Matrix Dense-Matrix Multiplication (SpMM)
 * [spiral](https://github.com/spiral-software/spiral-software)
   * Spiral based FFT generator
 * [tvm-vta](https://github.com/apache/tvm-vta)
@@ -91,6 +95,8 @@ A curated list of awesome open source hardware tools.
   * Small footprint and configurable embedded FPGA logic analyzer
 * [litepice](https://github.com/enjoy-digital/litepcie)
   * Small footprint and configurable PCIe core
+* [nocrouter](https://github.com/agalimberti/NoCRouter)
+  * Network-on-Chip Router
 * [OpenSERDES](https://github.com/SparcLab/OpenSERDES)
   * Digitally synthesizable architecture for SerDes using Skywater130
 * [pymtl3-net](https://github.com/cornell-brg/pymtl3-net)
@@ -99,6 +105,8 @@ A curated list of awesome open source hardware tools.
   * Configurable HDL NoC (Network-On-Chip)
 * [tnoc](https://github.com/taichi-ishitani/tnoc)
   * Network on Chip Implementation written in SytemVerilog
+* [USB_C_Industrial_Camera_FPGA_USB3](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3)
+  * USB C Industrial Camera Project
 * [verilog-axis](https://github.com/alexforencich/verilog-axis)
   * Verilog AXI stream components for FPGA implementation
 * [verilog-ethernet](https://github.com/alexforencich/verilog-ethernet)
@@ -138,9 +146,10 @@ A curated list of awesome open source hardware tools.
   * RV32IMFCX RISC-V 4-stage RISC-V CPU
 * [ibex](https://github.com/lowRISC/ibex)
   * Small 32 bit RISC-V CPU core
-
 * [microwatt](https://github.com/antonblanchard/microwatt)
   * Open POWER ISA softcore written in VHDL 2008
+* [muntjac](https://github.com/lowRISC/muntjac)
+  * Simple 64-bit RISC-V multicore processor
 * [neorv32](https://github.com/stnolting/neorv32)
   * Customizable and highly extensible MCU-class 32-bit RISC-V (VHDL)
 * [OpenXiangShan](https://github.com/OpenXiangShan/XiangShan)
@@ -149,6 +158,8 @@ A curated list of awesome open source hardware tools.
   * Size-Optimized RISC-V CPU
 * [rocket-chip](https://github.com/chipsalliance/rocket-chip)
   * Linux capable RISC-V Rocket Chip Generator
+* [rioschip](https://github.com/b224hisl/rioschip)
+  * Out of order RISC-V core
 * [serv](https://github.com/olofk/serv)
   * SErial RISC-V CPU
 * [snitch](https://github.com/pulp-platform/snitch)
@@ -167,6 +178,8 @@ A curated list of awesome open source hardware tools.
 
 ## Libraries
 
+* [basejump_stl](https://github.com/bespoke-silicon-group/basejump_stl)
+  * Library of SystemVerilog components
 * [basic_verilog](https://github.com/pConst/basic_verilog)
   * Library of SystemVerilog components
 * [common_cells](https://github.com/pulp-platform/common_cells)
@@ -175,8 +188,10 @@ A curated list of awesome open source hardware tools.
   * Library of Analog Deveices specific components
 * [oh](https://github.com/aolofsson/oh)
   * Library of Verilog components
-* [basejump_stl](https://github.com/bespoke-silicon-group/basejump_stl)
-  * Library of SystemVerilog components
+* [ppzbcm](https://github.com/pezy-computing/pzbcm)
+  * Basic common modules
+* [vlsiffra](https://github.com/antonblanchard/vlsiffra)
+  * Fast and efficient standard cell based adders, multipliers and multiply-adders
 
 
 ## Memory
@@ -205,7 +220,7 @@ A curated list of awesome open source hardware tools.
   * KiwiSDR: BeagleBone web-accessible GPS/SDR
 * [bsg_manycore](https://github.com/bespoke-silicon-group/bsg_manycore)
   * Tile based architecture designed for computing efficiency, scalability
-* [cep](https://github.com/mit-ll/CEP)
+* [cep](https://github.com/CommonEvaluationPlatform/CEP)
   * RISC-V based Common Evaluation Platform (CEP)
 * [esp](https://github.com/sld-columbia/esp)
   * Heterogeneous SoC architecture and IP design platform
@@ -225,3 +240,5 @@ A curated list of awesome open source hardware tools.
   * Multicore RISC-V based SoC
 * [pulpissimo](https://github.com/pulp-platform/pulpissimo)
   * Single core RISC-V based SoC
+* [SensSeq](https://github.com/EMIL-YORKU/SensSeq)
+  * Mixed-signal system on chip for nanopore-based DNA sequencing
