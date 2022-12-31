@@ -194,7 +194,7 @@ A curated list of awesome open source hardware tools.
   * Library of Analog Deveices specific components
 * [oh](https://github.com/aolofsson/oh)
   * Library of Verilog components
-* [ppzbcm](https://github.com/pezy-computing/pzbcm)
+* [pzbcm](https://github.com/pezy-computing/pzbcm)
   * Basic common modules
 * [vlsiffra](https://github.com/antonblanchard/vlsiffra)
   * Fast and efficient standard cell based adders, multipliers and multiply-adders
